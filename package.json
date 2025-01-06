@@ -1,0 +1,22 @@
+{
+  "name": "docs-generator-readme",
+  "version": "1.0.1",
+  "description": "Build your README simple and fast for all your projects",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node ./bin/generate-doc.js",
+    "start": "node index.js"
+  },
+  "bin": {
+    "generate-doc": "./bin/generate-doc.js"
+  },
+  "keywords": ["nodejs", "fs-extra", "readme"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figures": "^6.1.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^12.2.0"
+  }
+}
