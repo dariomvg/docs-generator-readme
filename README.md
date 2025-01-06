@@ -10,7 +10,7 @@
 ```
 > Nota: se instalará globalmente con -g para que pueda ejecutarse.
 
-<br />  
+---  
 
 #### _Uso:_
 
@@ -22,7 +22,7 @@ Para ejecutar escibe en la terminal en la ruta de tu proyecto:
 > Nota: Si tu proyecto ya tiene un archivo README te preguntará si lo quieres sobrescribir: y/N
 > coloca y(yes) para poder crearte la documentación.
 
-<br />  
+---  
 
 #### _Verifica:_
 
